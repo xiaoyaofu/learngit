@@ -5,3 +5,4 @@ Fast-forward?
 ???
 !
 0
+1
