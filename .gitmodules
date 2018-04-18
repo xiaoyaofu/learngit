@@ -1,0 +1,3 @@
+[submodule "gitskills"]
+	path = gitskills
+	url = https://github.com/xiaoyaofu/gitskills
